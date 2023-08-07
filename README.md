@@ -1,7 +1,9 @@
 [![YusufKayaBanner](https://github.com/yousefabohend/yousefabohend/blob/main/Yusuf%20Kaya.jpg)](https://www.linkedin.com/in/yusufkaya-youssefmohamed/)
 
 
-
+<p align="left"> 
+ <img src="https://komarev.com/ghpvc/?username=yousefabohend&label=Profile%20views&color=0e75b6&style=flat" alt="yousefabohend" /> 
+</p>
 
 ### Hi there 👋
 
