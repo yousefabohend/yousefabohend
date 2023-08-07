@@ -20,7 +20,24 @@ Looking for new opportunities to collaborate and contribute to Open-source.
 
 
 ## ⚡ Connect with me:
+ <a href="https://www.linkedin.com/in/yusufkaya-youssefmohamed" target="blank">
+        <img 
+            align="center" 
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashirbad-panigrahi" 
+            height="30" width="40" 
+        />
+    </a>
+  <a href="https://instagram.com/yousef._.mohamed._" target="blank">
+        <img 
+            align="center" 
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashirbadapanigrahi" 
+            height="30" width="40" 
+        />
+
+   
 ---
+
+
 ## 🖥 Languages and Tools:
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
