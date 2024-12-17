@@ -9,8 +9,8 @@
 # Yusuf Kaya / Youssef Mohamed (Software Engineer)
 
  
-- 👨‍💻 Experienced in Node.js, React, Next.js, and Python.
-- 🤖 Developed IoT projects with using RaspberryPi, Arduino IDE, and ESP32.
+- 👨‍💻 Experienced in JavaScript/TypeScript, Python, and Rust.
+- 🤖 Developed IoT projects using Raspberry Pi, Arduino, and ESP32.
 - 💻 Passionate about building innovative and user-friendly applications.
 
 Looking for new opportunities to collaborate and contribute to Open-source.
@@ -30,7 +30,7 @@ Looking for new opportunities to collaborate and contribute to Open-source.
   <a href="https://instagram.com/yousef._.mohamed._" target="blank">
         <img 
             align="center" 
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashirbadapanigrahi" 
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" 
             height="30" width="40" 
         />
 
