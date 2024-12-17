@@ -61,15 +61,6 @@ Looking for new opportunities to collaborate and contribute to Open-source.
 <img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
 <br />
 
----
 
-## 📊 GitHub Stats
-
-<a href="https://github.com/yousefabohend">
-  <img align="center" src="https://github-readme-stats-yousefabohend.vercel.app/api/top-langs/?username=yousefabohend&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" alt="Yusuf's Lang Stats" />
-</a>
-<a href="https://github.com/yousefabohend">
-  <img align="center" src="https://github-readme-stats-yousefabohend.vercel.app/api?username=yousefabohend&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Yusuf's GitHub Stats" />
-</a>
 
 ---
